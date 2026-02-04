@@ -1,6 +1,4 @@
 
-```
-![Inventory Management Banner](images/ChatGPT%20Image%20Feb%204,%202026,%2004_33_16%20PM.png)
 # Java GUI Application
 
 ## Overview
@@ -39,9 +37,6 @@ demo.png
 
 ```
 
-## Screenshots
-(images/Screenshot 2026-02-04 162838.png)
-(images/Screenshot 2026-02-04 162857.png)
 
 ## What I Learned
 - Swing components
